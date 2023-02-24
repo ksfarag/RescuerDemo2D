@@ -1,4 +1,6 @@
-Rescuer_Demo2D
+# Rescuer
+
+A game that was made during the 2018 Global Game Jam https://globalgamejam.org/2018/games/rescuer.
 
 Click to play! https://ksfarag.github.io/RescuerDemo2D/
 
